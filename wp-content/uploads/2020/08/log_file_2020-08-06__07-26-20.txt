@@ -1,0 +1,77 @@
+
+---Downloaded files---
+The import files for: Electro - WP Bakery Page Builder were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://itc.test
+Data file = C:\laragon4\www\itc/wp-content/themes/electro/assets/dummy-data/visualcomposer/dummy-data.xml
+Widget file = C:\laragon4\www\itc/wp-content/themes/electro/assets/dummy-data/visualcomposer/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> C:\laragon4\www\itc/wp-content/themes/electro/assets/dummy-data/visualcomposer/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Ảnh - No Title - Imported
+Sản phẩm - Latest Products - Imported
+Electro Features Block - No Title - Imported
+Electro Products Carousel - Featured Products - Imported
+Electro Posts Carousel - From the Blog - Imported
+
+Shop Sidebar : 
+
+Electro Product Categories - No Title - Imported
+Electro Product Filter - Filters - Imported
+Ảnh - No Title - Imported
+Sản phẩm - Latest Products - Imported
+
+Product Filters : 
+
+Bộ lọc sản phẩm đang kích hoạt - Active Filters - Imported
+Lọc sản phẩm bởi Thuộc tính - Brands - Imported
+Lọc sản phẩm bởi Thuộc tính - Color - Imported
+Lọc sản phẩm bởi giá - Price - Imported
+
+Blog Sidebar : 
+
+Tìm kiếm - No Title - Imported
+Văn bản - About Blog - Imported
+Chuyên mục - Categories - Imported
+Electro Recent Posts - Recent Posts - Imported
+Mây Thẻ - Tags Clouds - Imported
+
+Footer Widgets : 
+
+Sản phẩm - Featured Products - Imported
+Sản phẩm - Top Selling Products - Imported
+Sản phẩm - On-sale Products - Imported
+
+Footer Bottom Widgets : 
+
+Thanh điều hướng - Find It Fast - Imported
+Thanh điều hướng -   - Imported
+Thanh điều hướng - Customer Care - Imported
+
+Mobile Footer Bottom Widgets : 
+
+Thanh điều hướng - We Recommend - Imported
+Thanh điều hướng - My Account - Imported
+Thanh điều hướng - Customer Care - Imported
+Thanh điều hướng - About Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---pt-ocdi/after_import---
+
